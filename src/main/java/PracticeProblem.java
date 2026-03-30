@@ -1,3 +1,15 @@
+/**
+
+        * File: Lesson 3.4 - Nested ifs
+
+        * Author: Nithin.A
+
+        * Date Created: March 29, 2026
+
+        * Date Last Modified: March 31, 2026
+
+        */
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
